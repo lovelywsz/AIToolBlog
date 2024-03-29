@@ -1,0 +1,1 @@
+import{i as s,b as t}from"./index-G82DOdH0.js";import{w as u}from"./vue-ChzjY1xf.js";function n(){const o=s(),{userInfo:e}=t();u(()=>e.username,r=>{r||o.push("/login")},{immediate:!0})}export{n as u};
